@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="/https://mdirfanhossain100.github.io/restuarant/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://mdirfanhossain100.github.io/restuarant/hello-world/</link>
+	<atom:link href="/mdirfanhossain100.github.io/restuarant/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>/mdirfanhossain100.github.io/restuarant/hello-world/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sat, 06 Oct 2018 07:50:35 +0000</lastBuildDate>
 	<sy:updatePeriod>
