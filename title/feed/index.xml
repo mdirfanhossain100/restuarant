@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: title	</title>
-	<atom:link href="/mdirfanhossain100.github.io/restuarant/title/feed/" rel="self" type="application/rss+xml" />
-	<link>/mdirfanhossain100.github.io/restuarant/title/</link>
+	<atom:link href="https://mdirfanhossain100.github.io/restuarant/title/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mdirfanhossain100.github.io/restuarant/title/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sat, 29 Jan 2022 22:05:51 +0000</lastBuildDate>
 	<sy:updatePeriod>
